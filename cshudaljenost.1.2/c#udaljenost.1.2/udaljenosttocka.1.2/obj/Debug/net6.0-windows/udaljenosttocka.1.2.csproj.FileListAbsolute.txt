@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\obj\Debug\net6.0-windows\udaljenosttocka._1._2.Form1.resources
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\obj\Debug\net6.0-windows\udaljenosttocka.1.2.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\obj\Debug\net6.0-windows\udaljenosttocka.1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\obj\Debug\net6.0-windows\udaljenosttocka.1.2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\obj\Debug\net6.0-windows\udaljenosttocka.1.2.AssemblyInfo.cs
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\obj\Debug\net6.0-windows\udaljenosttocka.1.2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\bin\Debug\net6.0-windows\udaljenosttocka.1.2.exe
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\bin\Debug\net6.0-windows\udaljenosttocka.1.2.deps.json
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\bin\Debug\net6.0-windows\udaljenosttocka.1.2.runtimeconfig.json
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\bin\Debug\net6.0-windows\udaljenosttocka.1.2.dll
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\bin\Debug\net6.0-windows\ref\udaljenosttocka.1.2.dll
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\bin\Debug\net6.0-windows\udaljenosttocka.1.2.pdb
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\obj\Debug\net6.0-windows\udaljenosttocka.1.2.dll
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\obj\Debug\net6.0-windows\ref\udaljenosttocka.1.2.dll
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\obj\Debug\net6.0-windows\udaljenosttocka.1.2.pdb
+C:\Users\PC\Desktop\c#udaljenost.1.2\udaljenosttocka.1.2\obj\Debug\net6.0-windows\udaljenosttocka.1.2.genruntimeconfig.cache
